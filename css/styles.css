@@ -1,11 +1,9 @@
 h1 {
   color: aqua;
-  text-align: center;
 }
 
 h2 {
   font-style: italic;
-  text-align: center;
   color: teal;
 }
 
@@ -15,4 +13,5 @@ p {
 
 body {
   background-color: skyblue;
+  text-align: center;
 }
